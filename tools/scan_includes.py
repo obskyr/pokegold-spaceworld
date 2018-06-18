@@ -5,7 +5,7 @@
 and output them using Make dependency syntax.
 """
 
-# Script from the Telefang disassembly / fan translation project.
+# Script adapted from the Telefang disassembly / fan translation project.
 
 from __future__ import print_function
 from __future__ import unicode_literals
